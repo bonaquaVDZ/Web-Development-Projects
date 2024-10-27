@@ -1,2 +1,2 @@
-# WebDev
-HTML/CSS/JavaScript/Flask
+# Web Development Projects
+
